@@ -3,7 +3,7 @@ InfoSAM (ICML 2025 Spotlight)
 
 By [Yuanhong Zhang](https://scholar.google.com/citations?user=IMjuhnQAAAAJ)* and [Muyao Yuan](https://muyaoyuan.github.io)* (*: Equal contribution)
 
-* This repository is an official implementation of the paper [InfoSAM: Fine-Tuning the Segment Anything Model from An Information-Theoretic Perspective](https://to-be). 
+* This repository is an official implementation of the paper [InfoSAM: Fine-Tuning the Segment Anything Model from An Information-Theoretic Perspective](https://arxiv.org/pdf/2505.21920). 
 
 * For a comprehensive overview, please visit the [project page](https://muyaoyuan.github.io/InfoSAM_Page).
 
