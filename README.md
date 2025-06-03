@@ -112,7 +112,12 @@ for x, y in loader:
 # Citation
 If you find InfoSAM useful in your research, please consider citing:
 ```bibtex
-To-be
+@article{zhang2025infosam,
+  title={InfoSAM: Fine-Tuning the Segment Anything Model from An Information-Theoretic Perspective},
+  author={Zhang, Yuanhong and Yuan, Muyao and Zhang, Weizhan and Gong, Tieliang and Wen, Wen and Ying, Jiangyong and Shi, Weijie},
+  journal={arXiv preprint arXiv:2505.21920},
+  year={2025}
+}
 ```
 
 # Acknowledgement
